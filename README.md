@@ -1,5 +1,4 @@
-# Reconocimiento-Facial
-Mini proyecto de reconocimiento facial 
+# Reconocimiento-Facial 
 
 Pasos de ejecucion:  
 
